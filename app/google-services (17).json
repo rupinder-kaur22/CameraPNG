@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "69260587673",
+    "firebase_url": "https://imagetotext-eaf7b.firebaseio.com",
+    "project_id": "imagetotext-eaf7b",
+    "storage_bucket": "imagetotext-eaf7b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69260587673:android:8cb4a51315039824f3fe08",
+        "android_client_info": {
+          "package_name": "com.web.camerapng"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "69260587673-8hgusen8bb3l88m4hmvp380rj2tcc2k0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS919G8ICT0C2uu7EcAxyv5A_DRTH68Pg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "69260587673-8hgusen8bb3l88m4hmvp380rj2tcc2k0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
